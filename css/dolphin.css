@@ -20,3 +20,8 @@ html {
 
 /* Write your solution here */
 
+.dolphin {
+  position: relative;
+  bottom: 300px;
+  right: 350px;
+}
