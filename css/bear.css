@@ -10,3 +10,8 @@ html {
 
 /* Write your solution here */
 
+.bear {
+  position: relative;
+  right: 100%;
+}
+

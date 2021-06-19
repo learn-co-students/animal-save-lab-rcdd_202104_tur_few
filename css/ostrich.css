@@ -10,3 +10,8 @@ html {
 
 /* Write your solution here */
 
+#ostrich {
+  position: absolute;
+  top: 0;
+  left: 20%;
+}
